@@ -2,8 +2,14 @@ header{
     font-family: Arial Black;
     color: teal;
     text-align: center;
-    font-size: 17px;
+    font-size: 27px;
 }
 main{
     text-align: center;
+}
+
+h3{
+    font-size: 17px;
+    font-family: Arial Black;
+    color: teal;
 }
