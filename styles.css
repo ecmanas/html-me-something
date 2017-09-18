@@ -6,10 +6,26 @@ header{
 }
 main{
     text-align: center;
+    background-color: aliceblue;
 }
 
 h3{
     font-size: 17px;
     font-family: Arial Black;
     color: teal;
+}
+
+.figure { text-align: center;
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-bottom: 0%;
+    padding-left: 10%;
+    
+}
+
+p { margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 25%;
+    margin-left: 25%;
+
 }
