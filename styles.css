@@ -3,6 +3,7 @@ header{
     color: teal;
     text-align: center;
     font-size: 27px;
+    background-color: aliceblue;
 }
 main{
     text-align: center;
@@ -10,7 +11,7 @@ main{
 }
 
 h3{
-    font-size: 17px;
+    font-size: 25px;
     font-family: Arial Black;
     color: teal;
 }
@@ -23,8 +24,9 @@ h3{
     
 }
 
-p { margin-top: 5%;
-    margin-bottom: 5%;
+
+p { margin-top: 0%;
+    margin-bottom: 0%;
     margin-right: 25%;
     margin-left: 25%;
 
